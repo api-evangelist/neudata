@@ -1,0 +1,40 @@
+{
+    "name": "Neudata",
+    "description": "Alternative Data Intelligence for Asset Management | Alt data and use cases for quant & discretionary strategies #AltData #AlternativeData #Hedgefund",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28727-www-neudata-co.jpg",
+    "tags": [
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/neudata\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Neudata",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28727-www-neudata-co.jpg",
+            "humanURL": "https:\/\/www.neudata.co",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/neudata-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/neudatalab"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.neudata.co"
+        }
+    ]
+}
